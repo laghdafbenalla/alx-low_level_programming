@@ -5,3 +5,4 @@
 3. [alphABET](./3-print_alphabets.c) : A Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 4. [When I was having that alphabet soup, I never thought that it would pay off](./3-print_alphabets.c) : A program that prints the alphabet in lowercase, followed by a new line.
 5. [Numbers](./5-print_numbers.c) : A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+6. [Numberz](./6-print_numberz.c) : A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
