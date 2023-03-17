@@ -6,3 +6,4 @@
 4. [When I was having that alphabet soup, I never thought that it would pay off](./3-print_alphabets.c) : A program that prints the alphabet in lowercase, followed by a new line.
 5. [Numbers](./5-print_numbers.c) : A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 6. [Numberz](./6-print_numberz.c) : A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+8. [Hexadecimal](./8-print_base16.c) : A program that prints all the numbers of base 16 in lowercase, followed by a new line.
