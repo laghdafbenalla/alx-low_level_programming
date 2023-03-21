@@ -11,3 +11,4 @@
 9. [Learn your times table](./9-times_table.c) : A function that prints the 9 times table, starting with 0.
 10. [a + b](./10-add.c) : A function that adds two integers and returns the result.
 11. [98 Battery Street, the OG](./11-print_to_98.c) : A function that prints all natural numbers from n to 98, followed by a new line.
+12. [The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself](./100-times_table.c) : A function that prints the n times table, starting with 0.
