@@ -6,3 +6,4 @@
 4. [isalpha](./4-isalpha.c) : A function that checks for alphabetic character.
 5. [Sign](./5-sign.c) : A function that prints the sign of a number.
 6. [There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you](./6-abs.c) : A function that computes the absolute value of an integer.
+7. [There are only 3 colors, 10 digits, and 7 notes; its what we do with them thats important](./7-print_last_digit.c) : A function that prints the last digit of a number.
