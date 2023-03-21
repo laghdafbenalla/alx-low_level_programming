@@ -5,3 +5,4 @@
 3. [islower](./3-islower.c) : A function that checks for lowercase character.
 4. [isalpha](./4-isalpha.c) : A function that checks for alphabetic character.
 5. [Sign](./5-sign.c) : A function that prints the sign of a number.
+6. [There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you](./7-print_last_digit.c) : A function that computes the absolute value of an integer.
