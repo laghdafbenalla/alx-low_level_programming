@@ -6,3 +6,4 @@
 5. [A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes](./5-rev_string.c) : A function that reverses a string.
 6. [Half the lies they tell about me arent true](./6-puts2.c) : A  function that prints every other character of a string, starting with the first character, followed by a new line.
 7. [Winning is only half of it. Having fun is the other half](./7-puts_half.c) : A function that prints half of a string, followed by a new line.
+8. [Arrays are not pointers](./8-print_array.c) : A function that prints n elements of an array of integers, followed by a new line.
