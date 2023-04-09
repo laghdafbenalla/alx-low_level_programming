@@ -2,17 +2,12 @@
 
 /**
  * _puts - prints a string
- * @str: the string
- * Return: the length of the string
+ * @str: The string
  */
 void _puts(char *str)
 {
-	int i = 0;
+	while (*str)
+		_putchar(*str++);/*counts each allocated character memory*/
 
-	while (str[i] != '\0')
-	{
-		_putchar(str[i]);
-		i++;
-	}
 	_putchar('\n');
 }
